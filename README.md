@@ -1,2 +1,2 @@
-# web
-Repository for testing the GitHub pages
+# Web
+Repository for testing GitHub pages
